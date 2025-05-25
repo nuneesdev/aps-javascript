@@ -1,5 +1,5 @@
 # aps-javascript
-Esseé um gerador de respostas engraçadas feito como APS da disciplina de JavaScript 2025/1 – Unicarioca.
+//Esseé um gerador de respostas engraçadas feito como APS da disciplina de JavaScript 2025/1 – Unicarioca.
 alert("🤣 Bem-vindo ao Oráculo do Zé! Prepare-se para respostas que não ajudam em nada, mas alegram o dia!");
 
 // Entrada de dados
